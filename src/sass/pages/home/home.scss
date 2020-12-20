@@ -1,0 +1,10 @@
+// Global
+@import "../../base/global";
+
+body {
+    height: 100vh;
+    background-image: url($imagePath+'/home/m-logo.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
