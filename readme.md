@@ -3,6 +3,7 @@
 Your **JS** and **CSS** files will work on each page separately (performace based). 
 
 # Installation
+Clone or download zip
 
 # Commands
 **Important**: Please firstly gulp and gulp cli install.
